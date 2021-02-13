@@ -1,7 +1,7 @@
 ---
-title: "[GitHub] GitHub Pages를 사용해 내 프로젝트를 배포해보자"
+title: "GitHub Pages를 사용해 내 프로젝트를 배포해보자"
 date: 2021-01-25 +0800
-categories: [GitHub]
+categories: [Development, DevOps]
 tags: [gh-pages, deploy, github]
 ---
 
