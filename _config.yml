@@ -7,9 +7,9 @@
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: 지미랜드                          # the main title
+title: J1mmyson`s Devlog                         # the main title
 
-tagline: BE A WARRIOR,<br>NOT A WORRIOR.
+tagline: 오늘 뭐하지
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
   bootstrap Jekyll theme with responsive web design
