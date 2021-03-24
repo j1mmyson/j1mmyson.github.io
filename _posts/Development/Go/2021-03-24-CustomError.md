@@ -44,7 +44,7 @@ func main(){
     b := 10
     result, err := isSame(a, b)
     if err != nil{
-        fmt.Println(err)
+        fmt.Println(err.Error())
     }
 }
 ```
