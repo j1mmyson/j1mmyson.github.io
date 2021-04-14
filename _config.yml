@@ -11,9 +11,7 @@ title: J1mmyson`s Devlog                         # the main title
 
 tagline: 오늘 뭐하지
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Jimmy's Devlog.
 
 # fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
 url: 'https://j1mmyson.github.io'
