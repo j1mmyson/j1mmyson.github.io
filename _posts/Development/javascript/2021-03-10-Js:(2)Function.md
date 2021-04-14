@@ -2,7 +2,7 @@
 title: "[Js] 자바스크립트: (2)함수"
 date: 2021-03-10 +0800
 categories: [Development, Javascript]
-tags: [js, javascript, 함수, function]
+tags: [js, javascript, function]
 ---
 
 # [Js]자바스크립트: (2)함수
