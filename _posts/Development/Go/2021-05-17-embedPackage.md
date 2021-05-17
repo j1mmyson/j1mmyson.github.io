@@ -122,7 +122,7 @@ func second(w http.ResponseWriter, r *http.Request) {
 //go:embed static/*
 var staticFiles embed.FS
 
-http.Handle("/static/", http.StripPrefix("/static/", http.FileServer(http.FS(staticFiles))))
+http.Handle("/static/", http.FileServer(http.FS(staticFiles)))
 ```
 
 
