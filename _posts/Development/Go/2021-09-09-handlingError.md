@@ -8,7 +8,7 @@ tags: [golang, handling error, error]
 이 글은 **Tucker**님의 고언어 강의 **Go 언어가 온당**을 듣고 정리한 내용을 토대로 작성하였습니다.  
 
 **[Go언어가 온당 Youtube](https://www.youtube.com/playlist?list=PLy-g2fnSzUTBHwuXkWQ834QHDZwLx6v6j)**
-[![Thumnail](https://github.com/j1mmyson/j1mmyson.github.io/blob/master/assets/img/posts/go/ondang/tuckerGolang.jpeg?raw=true)](https://www.youtube.com/playlist?list=PLy-g2fnSzUTBHwuXkWQ834QHDZwLx6v6j)
+[![Thumnail](https://github.com/j1mmyson/j1mmyson.github.io/blob/main/assets/img/posts/go/ondang/tuckerGolang.jpeg?raw=true)](https://www.youtube.com/playlist?list=PLy-g2fnSzUTBHwuXkWQ834QHDZwLx6v6j)
 
 --- 
 **Go언어**에서 **에러를 다루는 방법**은 크게 두가지가 있다.
