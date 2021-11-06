@@ -51,7 +51,7 @@ tags: [golang, task manager, side project]
 
 자 이제 무엇을 만들지 정했으니 어떻게 만들지를 정해야 했다.  
 처음엔 백엔드와 프론트를 구분하여 백엔드에서는 json 파일을 반환해 주는 api만 만들고 프론트에서 요청을 통해 받아온 값으로 화면을 띄워주는 CSR 방식을 채택할까 고민하다가 내가 javascript를 아직 능숙하게 다루지 못하여서 그냥 서버 쪽에서 대부분의 처리를 맡는 방식을 택하게 되었다. (다음엔 꼭 프론트, 백을 구분하여서 작업을 진행해보고 싶다.)  
-![손그림..](https://github.com/j1mmyson/j1mmyson.github.io/blob/master/assets/img/posts/devlog/2021-07-17/architecture.png?raw=true)
+![손그림..](https://github.com/j1mmyson/j1mmyson.github.io/blob/main/assets/img/posts/devlog/2021-07-17/architecture.png?raw=true)
 
 대충 이런 모형의 구조설계를 그려놓고 코드를 짰다. 이게 서버 쪽에서 라우팅, db에 쿼리, 화면 렌더링 등의 기능을 전부 해서 그런지 코드가 굉장히 복잡해졌다고 생각된다.. 평소에 코드 짤 때 좀 더 가독성 좋고 확장성 높은 코드를 짜려고 노력하고 클린 코드에 대한 책과 글들을 읽었는데도 막상 직접 짜려니까 맘처럼 쉽지는 않았던 것 같다. 일단 완성을 하고 리팩토링을 하는 시간을 가져봐야겠다. 아무튼 내가 만들려는 `daily task manager`에 사용된 스택들은 아래와 같다.
 
@@ -64,9 +64,9 @@ tags: [golang, task manager, side project]
 
 서비스를 사용하는 영상을 짧게 따와봤다.  
 차례대로 회원가입, 로그인, 서비스를 사용하는 모습이다.
-![회원가입](https://github.com/j1mmyson/j1mmyson.github.io/blob/master/assets/img/posts/devlog/2021-07-17/signup.gif?raw=true)  
-![로그인](https://github.com/j1mmyson/j1mmyson.github.io/blob/master/assets/img/posts/devlog/2021-07-17/login.gif?raw=true)  
-![테스트](https://github.com/j1mmyson/j1mmyson.github.io/blob/master/assets/img/posts/devlog/2021-07-17/add.gif?raw=true)
+![회원가입](https://github.com/j1mmyson/j1mmyson.github.io/blob/main/assets/img/posts/devlog/2021-07-17/signup.gif?raw=true)  
+![로그인](https://github.com/j1mmyson/j1mmyson.github.io/blob/main/assets/img/posts/devlog/2021-07-17/login.gif?raw=true)  
+![테스트](https://github.com/j1mmyson/j1mmyson.github.io/blob/main/assets/img/posts/devlog/2021-07-17/add.gif?raw=true)
 
 ## 앞으로 남은 일들
 
