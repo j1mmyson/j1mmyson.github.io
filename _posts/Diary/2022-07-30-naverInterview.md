@@ -22,7 +22,7 @@ tags: [Naver, Interview, Search CIC, Intern]
 ![합격해버렸다](https://github.com/j1mmyson/j1mmyson.github.io/blob/main/assets/img/posts/diary/naver/img1.png?raw=true)
 
 그런데.. 통과해버렸다..ㅋㅋㅋㅋ. 기대 안 하는척하면서 내심 기대를 하고 있긴 했지만 붙으니까 정말 기뻤다. 하지만 기쁨도 잠시 면접 경험이 전혀 없었기에 1차 면접을 어떻게 준비를 해야 하나.. 걱정하지 않을 수 없었다.  
-면접 준비의 경우 우선 [쩜튜브님의 영상](https://www.youtube.com/watch?v=GamAeZOD8qc)을 보며 어떤 분위기에 어떤 느낌으로 진행되는지 보았고 1차 면접의 경우 기술면접이었기에 기본 CS 지식, 알고리즘, 자료구조 등등에 대해 공부를 했는데 [규글님의 깃헙]([gyoogle.dev/](https://gyoogle.dev/))을 참고하여 공부해야 할 키워드들을 얻고 내가 확실하게 알지 못하는 부분의 경우 추가적인 검색이나 책을 보면서 공부를 하였다. 
+면접 준비의 경우 우선 [쩜튜브님의 영상](https://www.youtube.com/watch?v=GamAeZOD8qc)을 보며 어떤 분위기에 어떤 느낌으로 진행되는지 보았고 1차 면접의 경우 기술면접이었기에 기본 CS 지식, 알고리즘, 자료구조 등등에 대해 공부를 했는데 [규글님의 깃헙](https://gyoogle.dev/)을 참고하여 공부해야 할 키워드들을 얻고 내가 확실하게 알지 못하는 부분의 경우 추가적인 검색이나 책을 보면서 공부를 하였다. 
 
 ## 그렇게 1차 면접날이 다가오고..
 
