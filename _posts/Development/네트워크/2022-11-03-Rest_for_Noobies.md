@@ -6,8 +6,8 @@ tags: [cowork, restful, rest api]
 ---
 
 > **먼저 이 글은 [REST API Best Practices – REST Endpoint Design Examples by Kolade Chris](https://www.freecodecamp.org/news/rest-api-best-practices-rest-endpoint-design-examples/) 아티클을 번역 및 요약한 것을 알립니다.**  
-**이전 진행되던 팀 프로젝트에서 팀원들에게 도움이 되고자 노션에 번역, 요약해놨던 글을 거의 그대로 옮겨왔습니다.  
-협업이 처음인데 RESTFUL함이 확실히 뭔지 모르겠다 하시는 분들이라면 아래의 규칙들만 잘 지켜도 꽤 좋은 API 설계를 할 수 있을 것이라고 생각합니다..!**
+**이전 진행했던 팀 프로젝트에서 팀원들에게 도움이 되고자 노션에 번역, 요약해놨던 글을 거의 그대로 옮겨왔습니다.  
+협업이 처음인데 RESTFUL함이 확실히 뭔지 모르겠다 하시는 분들이라면 아래의 규칙들만 잘 지켜도 꽤 괜찮은 API 설계를 할 수 있을 것이라고 생각합니다..!**
 
 
 ## 1. 데이터를 주고받을 때 Json을 사용하라!
