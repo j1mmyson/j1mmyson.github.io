@@ -20,11 +20,11 @@ tags: [go, golang, strings]
 - [**Count**: 내가 찾는 글자가 몇개나 있어?](#count-substr이-s안에-몇개-존재해)
 - [**Fields**: 공백을 기준으로 문자열 나눠줘](#fields-공백을-기준으로-문자열을-나눠줘)
 - [**FieldsFunc**: 나만의 기준으로 문자열을 나눌래](#fieldsfunc-나는-공백말고-다른-기준으로-문자열을-나누고-싶어)
-- [**Contains**: 내가 찾는 문자열이 있어?](#contains-substr이-s안에-존재해)
+- [**Contains**: 내가 찾는 문자열이 있어?](#contains-내가-찾는-문자열이-있어)
 - [**Join**: 문자열을 합쳐줘](#join-문자열을-합쳐줘)
 - [**Map**: 모든 글자에 함수를 적용시키겠어](#map-모든-글자에-mapping을-거친-문자열을-반환해줘)
-- [**Replace**: 원하는 글자만 바꿔줘](#replace-s에서-n개-만큼old를-new로-바꿔줘)
-- [**Split**: `sep`으로 문자열을 나눠줘](#split-sep으로-s를-나눠줘)
+- [**Replace**: 원하는 글자만 바꿔줘](#replace-원하는-글자만-바꿔줘)
+- [**Split**: `sep`으로 문자열을 나눠줘](#split-sep으로-문자열을-나눠줘)
 - [**Trim**: 양쪽에서 `cutset`에 속하는 문자들을 지우고싶어](#trim-양쪽에서-cutset을-없애고-싶어)
 
 ## Clone: 문자열의 복사본을 만들어줘
